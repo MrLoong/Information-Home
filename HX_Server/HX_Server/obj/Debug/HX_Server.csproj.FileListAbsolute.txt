@@ -1,0 +1,74 @@
+G:\B_environment\image cup\核心服务器\HX_Server\HX_Server\bin\Debug\HX_Server.exe.config
+G:\B_environment\image cup\核心服务器\HX_Server\HX_Server\bin\Debug\HX_Server.exe
+G:\B_environment\image cup\核心服务器\HX_Server\HX_Server\bin\Debug\HX_Server.pdb
+G:\B_environment\image cup\核心服务器\HX_Server\HX_Server\obj\Debug\HX_Server.csprojResolveAssemblyReference.cache
+G:\B_environment\image cup\核心服务器\HX_Server\HX_Server\obj\Debug\HX_Server.Form1.resources
+G:\B_environment\image cup\核心服务器\HX_Server\HX_Server\obj\Debug\HX_Server.Properties.Resources.resources
+G:\B_environment\image cup\核心服务器\HX_Server\HX_Server\obj\Debug\HX_Server.csproj.GenerateResource.Cache
+G:\B_environment\image cup\核心服务器\HX_Server\HX_Server\obj\Debug\HX_Server.exe
+G:\B_environment\image cup\核心服务器\HX_Server\HX_Server\obj\Debug\HX_Server.pdb
+G:\B_environment\image cup\核心服务器\HX_Server\HX_Server\bin\Debug\LitJson.dll
+G:\B_environment\image cup\核心服务器\HX_Server\HX_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\longsaho\Desktop\核心服务器\HX_Server\HX_Server\bin\Debug\HX_Server.exe.config
+C:\Users\longsaho\Desktop\核心服务器\HX_Server\HX_Server\obj\Debug\HX_Server.exe
+C:\Users\longsaho\Desktop\核心服务器\HX_Server\HX_Server\obj\Debug\HX_Server.pdb
+C:\Users\longsaho\Desktop\核心服务器\HX_Server\HX_Server\bin\Debug\HX_Server.exe
+C:\Users\longsaho\Desktop\核心服务器\HX_Server\HX_Server\bin\Debug\HX_Server.pdb
+C:\Users\longsaho\Desktop\核心服务器\HX_Server\HX_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\longsaho\Desktop\核心服务器\HX_Server\HX_Server\obj\Debug\HX_Server.csprojResolveAssemblyReference.cache
+C:\Users\longsaho\Desktop\核心服务器\HX_Server\HX_Server\obj\Debug\HX_Server.Form1.resources
+C:\Users\longsaho\Desktop\核心服务器\HX_Server\HX_Server\obj\Debug\HX_Server.Properties.Resources.resources
+C:\Users\longsaho\Desktop\核心服务器\HX_Server\HX_Server\obj\Debug\HX_Server.csproj.GenerateResource.Cache
+G:\B_environment\image cup\核心服务器3\HX_Server\HX_Server\bin\Debug\HX_Server.exe.config
+G:\B_environment\image cup\核心服务器3\HX_Server\HX_Server\obj\Debug\HX_Server.exe
+G:\B_environment\image cup\核心服务器3\HX_Server\HX_Server\obj\Debug\HX_Server.pdb
+G:\B_environment\image cup\核心服务器3\HX_Server\HX_Server\bin\Debug\HX_Server.exe
+G:\B_environment\image cup\核心服务器3\HX_Server\HX_Server\bin\Debug\HX_Server.pdb
+G:\B_environment\image cup\核心服务器3\HX_Server\HX_Server\bin\Debug\Newtonsoft.Json.dll
+G:\B_environment\image cup\核心服务器3\HX_Server\HX_Server\obj\Debug\HX_Server.csprojResolveAssemblyReference.cache
+G:\B_environment\image cup\核心服务器3\HX_Server\HX_Server\obj\Debug\HX_Server.Form1.resources
+G:\B_environment\image cup\核心服务器3\HX_Server\HX_Server\obj\Debug\HX_Server.Properties.Resources.resources
+G:\B_environment\image cup\核心服务器3\HX_Server\HX_Server\obj\Debug\HX_Server.csproj.GenerateResource.Cache
+G:\B_environment\image cup\核心服务器4\HX_Server\HX_Server\bin\Debug\HX_Server.exe.config
+G:\B_environment\image cup\核心服务器4\HX_Server\HX_Server\obj\Debug\HX_Server.exe
+G:\B_environment\image cup\核心服务器4\HX_Server\HX_Server\obj\Debug\HX_Server.pdb
+G:\B_environment\image cup\核心服务器4\HX_Server\HX_Server\bin\Debug\HX_Server.exe
+G:\B_environment\image cup\核心服务器4\HX_Server\HX_Server\bin\Debug\HX_Server.pdb
+G:\B_environment\image cup\核心服务器4\HX_Server\HX_Server\bin\Debug\Newtonsoft.Json.dll
+G:\B_environment\image cup\核心服务器4\HX_Server\HX_Server\obj\Debug\HX_Server.csprojResolveAssemblyReference.cache
+G:\B_environment\image cup\核心服务器4\HX_Server\HX_Server\obj\Debug\HX_Server.Properties.Resources.resources
+G:\B_environment\image cup\核心服务器4\HX_Server\HX_Server\obj\Debug\HX_Server.csproj.GenerateResource.Cache
+G:\B_environment\image cup\核心服务器4\HX_Server\HX_Server\obj\Debug\HX_Server.HX_server.resources
+D:\profession\c#\I-home\I-home\HX_Server\HX_Server\bin\Debug\HX_Server.exe.config
+D:\profession\c#\I-home\I-home\HX_Server\HX_Server\obj\Debug\HX_Server.exe
+D:\profession\c#\I-home\I-home\HX_Server\HX_Server\obj\Debug\HX_Server.pdb
+D:\profession\c#\I-home\I-home\HX_Server\HX_Server\bin\Debug\HX_Server.exe
+D:\profession\c#\I-home\I-home\HX_Server\HX_Server\bin\Debug\HX_Server.pdb
+D:\profession\c#\I-home\I-home\HX_Server\HX_Server\bin\Debug\Newtonsoft.Json.dll
+D:\profession\c#\I-home\I-home\HX_Server\HX_Server\obj\Debug\HX_Server.csprojResolveAssemblyReference.cache
+D:\profession\c#\I-home\I-home\HX_Server\HX_Server\obj\Debug\HX_Server.HX_server.resources
+D:\profession\c#\I-home\I-home\HX_Server\HX_Server\obj\Debug\HX_Server.Properties.Resources.resources
+D:\profession\c#\I-home\I-home\HX_Server\HX_Server\obj\Debug\HX_Server.csproj.GenerateResource.Cache
+C:\Users\希伟\Desktop\Information Home\Information Home\HX_Server\HX_Server\bin\Debug\HX_Server.exe.config
+C:\Users\希伟\Desktop\Information Home\Information Home\HX_Server\HX_Server\obj\Debug\HX_Server.exe
+C:\Users\希伟\Desktop\Information Home\Information Home\HX_Server\HX_Server\obj\Debug\HX_Server.pdb
+G:\Information Home\HX_Server\HX_Server\bin\Debug\HX_Server.exe.config
+G:\Information Home\HX_Server\HX_Server\obj\Debug\HX_Server.exe
+G:\Information Home\HX_Server\HX_Server\obj\Debug\HX_Server.pdb
+G:\Information Home\HX_Server\HX_Server\bin\Debug\HX_Server.exe
+G:\Information Home\HX_Server\HX_Server\bin\Debug\HX_Server.pdb
+G:\Information Home\HX_Server\HX_Server\bin\Debug\Newtonsoft.Json.dll
+G:\Information Home\HX_Server\HX_Server\obj\Debug\HX_Server.csprojResolveAssemblyReference.cache
+G:\Information Home\HX_Server\HX_Server\obj\Debug\HX_Server.HX_server.resources
+G:\Information Home\HX_Server\HX_Server\obj\Debug\HX_Server.Properties.Resources.resources
+G:\Information Home\HX_Server\HX_Server\obj\Debug\HX_Server.csproj.GenerateResource.Cache
+D:\profession\Information\Information Home\HX_Server\HX_Server\bin\Debug\HX_Server.exe.config
+D:\profession\Information\Information Home\HX_Server\HX_Server\obj\Debug\HX_Server.exe
+D:\profession\Information\Information Home\HX_Server\HX_Server\obj\Debug\HX_Server.pdb
+D:\profession\Information\Information Home\HX_Server\HX_Server\bin\Debug\HX_Server.exe
+D:\profession\Information\Information Home\HX_Server\HX_Server\bin\Debug\HX_Server.pdb
+D:\profession\Information\Information Home\HX_Server\HX_Server\bin\Debug\Newtonsoft.Json.dll
+D:\profession\Information\Information Home\HX_Server\HX_Server\obj\Debug\HX_Server.csprojResolveAssemblyReference.cache
+D:\profession\Information\Information Home\HX_Server\HX_Server\obj\Debug\HX_Server.HX_server.resources
+D:\profession\Information\Information Home\HX_Server\HX_Server\obj\Debug\HX_Server.Properties.Resources.resources
+D:\profession\Information\Information Home\HX_Server\HX_Server\obj\Debug\HX_Server.csproj.GenerateResource.Cache

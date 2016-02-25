@@ -1,0 +1,18 @@
+D:\profession\Information\Information Home\Information Home PC\Information Home\bin\Debug\Information Home PC.exe.config
+D:\profession\Information\Information Home\Information Home PC\Information Home\bin\Debug\Information Home PC.exe
+D:\profession\Information\Information Home\Information Home PC\Information Home\bin\Debug\Information Home PC.pdb
+D:\profession\Information\Information Home\Information Home PC\Information Home\bin\Debug\zh\Information Home PC.resources.dll
+D:\profession\Information\Information Home\Information Home PC\Information Home\bin\Debug\NAudio.dll
+D:\profession\Information\Information Home\Information Home PC\Information Home\bin\Debug\Newtonsoft.Json.dll
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Debug\Information Home.csprojResolveAssemblyReference.cache
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Debug\Information_Home_PC.chooseIn.resources
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Debug\Information_Home_PC.HomePage.resources
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Debug\Information_Home_PC.Properties.Resources.resources
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Debug\Information_Home_PC.ShareForm.resources
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Debug\Information_Home_PC.VistaButton.resources
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Debug\Information_Home_PC.VoiceCall.resources
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Debug\Information_Home_PC.HomePage.zh.resources
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Debug\Information Home.csproj.GenerateResource.Cache
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Debug\zh\Information Home PC.resources.dll
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Debug\Information Home PC.exe
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Debug\Information Home PC.pdb

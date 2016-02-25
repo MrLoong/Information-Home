@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>Information Home.dll</File>
+    <File>dll\Coding4Fun.Phone.Controls.dll</File>
+    <File>dll\Coding4Fun.Toolkit.Controls.dll</File>
+    <File>dll\Microsoft.Phone.Controls.Toolkit.dll</File>
+    <File>images\bg.png</File>
+    <File>images\DocumentBackground.png</File>
+    <File>images\Next.png</File>
+    <File>images\No.png</File>
+    <File>images\Play.png</File>
+    <File>images\TheLast.png</File>
+    <File>images\TheStop.png</File>
+    <File>images\mute.png</File>
+    <File>images\OnOff.png</File>
+    <File>images\TheNextSection.png</File>
+    <File>images\transport.playandpayse.png</File>
+    <File>images\VolumeUp.png</File>
+    <File>images\back.png</File>
+    <File>images\File.png</File>
+    <File>images\Folder.png</File>
+    <File>images\Hard_Disk.png</File>
+    <File>images\VolumeDown.png</File>
+    <File>images\New_Folder.png</File>
+    <File>images\PanoramaBackground.png</File>
+    <File>images\Search.png</File>
+    <File>Assets\AlignmentGrid.png</File>
+    <File>Assets\ApplicationIcon.png</File>
+    <File>Assets\BadgeLogo.png</File>
+    <File>Assets\Logo.png</File>
+    <File>Assets\SplashScreen.png</File>
+    <File>Assets\SquareTile150x150.png</File>
+    <File>Assets\SquareTile71x71.png</File>
+    <File>Assets\StoreLogo.png</File>
+    <File>Assets\WideLogo.png</File>
+    <File>Assets\Tiles\FlipCycleTileLarge.png</File>
+    <File>Assets\Tiles\FlipCycleTileMedium.png</File>
+    <File>Assets\Tiles\FlipCycleTileSmall.png</File>
+    <File>Assets\Tiles\IconicTileMediumLarge.png</File>
+    <File>Assets\Tiles\IconicTileSmall.png</File>
+    <File>images\TheLastSection.png</File>
+    <File>images\transport.ff.png</File>
+    <File>images\transport.rew.png</File>
+    <File>AppManifest.xaml</File>
+    <File>Coding4Fun.Phone.Controls.dll</File>
+    <File>Coding4Fun.Toolkit.Controls.dll</File>
+    <File>Microsoft.Phone.Controls.Toolkit.dll</File>
+    <File>Microsoft.Phone.Controls.dll</File>
+    <File>images\homeIco.png</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>

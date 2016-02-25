@@ -1,0 +1,23 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Information_Home.Welcome"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Image Source="/images/DocumentBackground.png" HorizontalAlignment="Left" Height="800" VerticalAlignment="Top" Width="480" Stretch="Fill"/>
+        <TextBlock Text="  I-Home  " FontSize="70" Margin="85,122,71,573" FontWeight="Bold" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" Height="105" Width="324"/>
+        <Button Content="  Enter  " FontSize="40" Margin="145,573,125,122" FontWeight="Bold" BorderThickness="3" Foreground="White" BorderBrush="White" Click="Start_Click" VerticalAlignment="Center" HorizontalAlignment="Center" Height="105"/>
+    </Grid>
+
+</phone:PhoneApplicationPage>

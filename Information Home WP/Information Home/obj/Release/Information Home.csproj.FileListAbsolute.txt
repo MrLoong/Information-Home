@@ -1,0 +1,54 @@
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\Assets\ApplicationIcon.png
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\Assets\Tiles\IconicTileSmall.png
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\Information Home.dll
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\Information Home.pdb
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\resources.pri
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\AppxManifest.xml
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\Information Home.build.appxrecipe
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\Properties\WMAppManifest.xml
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\AppManifest.xaml
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\Information_Home_Release_AnyCPU.xap
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\Coding4Fun.Phone.Controls.dll
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\Coding4Fun.Toolkit.Controls.dll
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Release\Microsoft.Phone.Controls.dll
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Information Home.csprojResolveAssemblyReference.cache
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\App.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\ComeIn.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Connect.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Control_PPT.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\DataSharing.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Document.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Easy_Use.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Key_Box.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\File_Preview.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Information.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Push_The_Screen.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Scenic_Sharing.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\System_Manage.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Video_Remote_Control.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Voice_Calls.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Welcome.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Information Home.g.resources
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Information_Home.Resources.AppResources.resources
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Information Home.csproj.GenerateResource.Cache
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Information Home.dll
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\Information Home.pdb
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\priconfig.xml
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\priconfig.xml.intermediate
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\layout.resfiles
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\layout.resfiles.intermediate
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\resources.resfiles
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\resources.resfiles.intermediate
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\pri.resfiles
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\pri.resfiles.intermediate
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\qualifiers.txt
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\qualifiers.txt.intermediate
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\ProjectArchitectures.txt
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\MDILProjectFiles.xml
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Release\XapCacheFile.xml

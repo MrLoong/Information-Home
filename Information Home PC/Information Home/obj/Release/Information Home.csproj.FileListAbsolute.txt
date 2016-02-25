@@ -1,0 +1,212 @@
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\bin\Release\Information Home PC.exe.config
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\bin\Release\Information Home PC.exe
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\bin\Release\Information Home PC.pdb
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\bin\Release\zh\Information Home PC.resources.dll
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information Home.csprojResolveAssemblyReference.cache
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information_Home_PC.HomePage.resources
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information_Home_PC.Properties.Resources.resources
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information_Home_PC.ShareForm.resources
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information_Home_PC.VistaButton.resources
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information_Home_PC.HomePage.zh.resources
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information Home.csproj.GenerateResource.Cache
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\zh\Information Home PC.resources.dll
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information Home PC.exe
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information Home PC.pdb
+D:\profession\c#\Information Home PC\Information Home PC\FindFile\bin\Release\Information Home PC.exe.config
+D:\profession\c#\Information Home PC\Information Home PC\FindFile\obj\Release\Information Home PC.exe
+D:\profession\c#\Information Home PC\Information Home PC\FindFile\obj\Release\Information Home PC.pdb
+D:\profession\c#\Information Home PC\Information Home PC\FindFile\bin\Release\Information Home PC.exe
+D:\profession\c#\Information Home PC\Information Home PC\FindFile\bin\Release\Information Home PC.pdb
+D:\profession\c#\Information Home PC\Information Home PC\FindFile\bin\Release\zh\Information Home PC.resources.dll
+D:\profession\c#\Information Home PC\Information Home PC\FindFile\obj\Release\Information Home.csprojResolveAssemblyReference.cache
+D:\profession\c#\Information Home PC\Information Home PC\FindFile\obj\Release\Information_Home_PC.HomePage.resources
+D:\profession\c#\Information Home PC\Information Home PC\FindFile\obj\Release\Information_Home_PC.Properties.Resources.resources
+D:\profession\c#\Information Home PC\Information Home PC\FindFile\obj\Release\Information_Home_PC.ShareForm.resources
+D:\profession\c#\Information Home PC\Information Home PC\FindFile\obj\Release\Information_Home_PC.VistaButton.resources
+D:\profession\c#\Information Home PC\Information Home PC\FindFile\obj\Release\Information_Home_PC.HomePage.zh.resources
+D:\profession\c#\Information Home PC\Information Home PC\FindFile\obj\Release\Information Home.csproj.GenerateResource.Cache
+D:\profession\c#\Information Home PC\Information Home PC\FindFile\obj\Release\zh\Information Home PC.resources.dll
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\bin\Release\Information Home PC.exe.config
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\obj\Release\Information Home PC.exe
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\obj\Release\Information Home PC.pdb
+D:\profession\c#\Information Home PC\Information Home\bin\Release\Information Home PC.exe.config
+D:\profession\c#\Information Home PC\Information Home\obj\Release\Information Home PC.exe
+D:\profession\c#\Information Home PC\Information Home\obj\Release\Information Home PC.pdb
+D:\profession\c#\Information Home PC\Information Home\bin\Release\Information Home PC.exe
+D:\profession\c#\Information Home PC\Information Home\bin\Release\Information Home PC.pdb
+D:\profession\c#\Information Home PC\Information Home\bin\Release\zh\Information Home PC.resources.dll
+D:\profession\c#\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.resources
+D:\profession\c#\Information Home PC\Information Home\obj\Release\Information_Home_PC.Properties.Resources.resources
+D:\profession\c#\Information Home PC\Information Home\obj\Release\Information_Home_PC.ShareForm.resources
+D:\profession\c#\Information Home PC\Information Home\obj\Release\Information_Home_PC.VistaButton.resources
+D:\profession\c#\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.zh.resources
+D:\profession\c#\Information Home PC\Information Home\obj\Release\Information Home.csproj.GenerateResource.Cache
+D:\profession\c#\Information Home PC\Information Home\obj\Release\zh\Information Home PC.resources.dll
+D:\profession\c#\Information Home PC\Information Home\obj\Release\Information Home.csprojResolveAssemblyReference.cache
+C:\Users\lurenyi\Downloads\Information Home PC\Information Home\bin\Release\Information Home PC.exe.config
+C:\Users\lurenyi\Downloads\Information Home PC\Information Home\obj\Release\Information Home PC.exe
+C:\Users\lurenyi\Downloads\Information Home PC\Information Home\obj\Release\Information Home PC.pdb
+C:\Users\lurenyi\Downloads\Information Home PC\Information Home\bin\Release\Information Home PC.exe
+C:\Users\lurenyi\Downloads\Information Home PC\Information Home\bin\Release\Information Home PC.pdb
+C:\Users\lurenyi\Downloads\Information Home PC\Information Home\bin\Release\zh\Information Home PC.resources.dll
+C:\Users\lurenyi\Downloads\Information Home PC\Information Home\obj\Release\Information Home.csprojResolveAssemblyReference.cache
+C:\Users\lurenyi\Downloads\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.resources
+C:\Users\lurenyi\Downloads\Information Home PC\Information Home\obj\Release\Information_Home_PC.Properties.Resources.resources
+C:\Users\lurenyi\Downloads\Information Home PC\Information Home\obj\Release\Information_Home_PC.ShareForm.resources
+C:\Users\lurenyi\Downloads\Information Home PC\Information Home\obj\Release\Information_Home_PC.VistaButton.resources
+C:\Users\lurenyi\Downloads\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.zh.resources
+C:\Users\lurenyi\Downloads\Information Home PC\Information Home\obj\Release\Information Home.csproj.GenerateResource.Cache
+C:\Users\lurenyi\Downloads\Information Home PC\Information Home\obj\Release\zh\Information Home PC.resources.dll
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\bin\Release\Information Home PC.exe.config
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\obj\Release\Information Home PC.exe
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\obj\Release\Information Home PC.pdb
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\bin\Release\Information Home PC.exe
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\bin\Release\Information Home PC.pdb
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\bin\Release\zh\Information Home PC.resources.dll
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.resources
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\obj\Release\Information_Home_PC.Properties.Resources.resources
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\obj\Release\Information_Home_PC.ShareForm.resources
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\obj\Release\Information_Home_PC.VistaButton.resources
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.zh.resources
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\obj\Release\Information Home.csproj.GenerateResource.Cache
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\obj\Release\zh\Information Home PC.resources.dll
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\bin\Release\NAudio.dll
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\bin\Release\Information Home PC.exe.config
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\obj\Release\Information Home PC.exe
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\obj\Release\Information Home PC.pdb
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\bin\Release\Information Home PC.exe
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\bin\Release\Information Home PC.pdb
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\bin\Release\zh\Information Home PC.resources.dll
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\bin\Release\NAudio.dll
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\obj\Release\Information Home.csprojResolveAssemblyReference.cache
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.resources
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\obj\Release\Information_Home_PC.Properties.Resources.resources
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\obj\Release\Information_Home_PC.ShareForm.resources
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\obj\Release\Information_Home_PC.VistaButton.resources
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.zh.resources
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\obj\Release\Information Home.csproj.GenerateResource.Cache
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\obj\Release\zh\Information Home PC.resources.dll
+D:\profession\c#\Information Home PC V8\Information Home PC\Information Home\obj\Release\Information_Home_PC.VoiceCalls.resources
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\obj\Release\Information_Home_PC.VoiceCalls.resources
+C:\Users\lurenyi\Desktop\Information Home PC\Information Home\obj\Release\Information Home.csprojResolveAssemblyReference.cache
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\bin\Release\Information Home PC.exe.config
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\obj\Release\Information Home PC.exe
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\obj\Release\Information Home PC.pdb
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\bin\Release\Information Home PC.exe
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\bin\Release\Information Home PC.pdb
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\bin\Release\zh\Information Home PC.resources.dll
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\bin\Release\NAudio.dll
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\bin\Release\Newtonsoft.Json.dll
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.resources
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\obj\Release\Information_Home_PC.Properties.Resources.resources
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\obj\Release\Information_Home_PC.ShareForm.resources
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\obj\Release\Information_Home_PC.VistaButton.resources
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\obj\Release\Information_Home_PC.VoiceCalls.resources
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.zh.resources
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\obj\Release\Information Home.csproj.GenerateResource.Cache
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\obj\Release\zh\Information Home PC.resources.dll
+D:\profession\c#\Information Home PC V10\Information Home PC\Information Home\obj\Release\Information Home.csprojResolveAssemblyReference.cache
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\bin\Release\Information Home PC.exe
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\bin\Release\Information Home PC.pdb
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\bin\Release\zh\Information Home PC.resources.dll
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\bin\Release\NAudio.dll
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\bin\Release\Newtonsoft.Json.dll
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\obj\Release\Information Home.csprojResolveAssemblyReference.cache
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.resources
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\obj\Release\Information_Home_PC.Properties.Resources.resources
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\obj\Release\Information_Home_PC.ShareForm.resources
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\obj\Release\Information_Home_PC.VistaButton.resources
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\obj\Release\Information_Home_PC.VoiceCalls.resources
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.zh.resources
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\obj\Release\Information Home.csproj.GenerateResource.Cache
+D:\profession\c#\Information Home PC\Information Home PC\Information Home\obj\Release\zh\Information Home PC.resources.dll
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\bin\Release\Information Home PC.exe.config
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\obj\Release\Information Home PC.exe
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\obj\Release\Information Home PC.pdb
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\bin\Release\Information Home PC.exe
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\bin\Release\Information Home PC.pdb
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\bin\Release\zh\Information Home PC.resources.dll
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\bin\Release\NAudio.dll
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\bin\Release\Newtonsoft.Json.dll
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\obj\Release\Information Home.csprojResolveAssemblyReference.cache
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.resources
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\obj\Release\Information_Home_PC.Properties.Resources.resources
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\obj\Release\Information_Home_PC.ShareForm.resources
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\obj\Release\Information_Home_PC.VistaButton.resources
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\obj\Release\Information_Home_PC.VoiceCalls.resources
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.zh.resources
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\obj\Release\Information Home.csproj.GenerateResource.Cache
+C:\Users\希伟\Desktop\Information Home PC\Information Home PC\Information Home\obj\Release\zh\Information Home PC.resources.dll
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home PC\Information Home\bin\Release\Information Home PC.exe.config
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home PC\Information Home\obj\Release\Information Home PC.exe
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home PC\Information Home\obj\Release\Information Home PC.pdb
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\bin\Release\Information Home PC.exe.config
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\obj\Release\Information Home PC.exe
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\obj\Release\Information Home PC.pdb
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\bin\Release\Information Home PC.exe
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\bin\Release\Information Home PC.pdb
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\bin\Release\zh\Information Home PC.resources.dll
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\bin\Release\NAudio.dll
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\bin\Release\Newtonsoft.Json.dll
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.resources
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.Properties.Resources.resources
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.ShareForm.resources
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.VistaButton.resources
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.VoiceCalls.resources
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.zh.resources
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\obj\Release\Information Home.csproj.GenerateResource.Cache
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\obj\Release\zh\Information Home PC.resources.dll
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.VoiceCall.resources
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home PC\Information Home\obj\Release\Information Home.csprojResolveAssemblyReference.cache
+G:\Information Home\Information Home PC\Information Home\bin\Release\Information Home PC.exe.config
+G:\Information Home\Information Home PC\Information Home\obj\Release\Information Home PC.exe
+G:\Information Home\Information Home PC\Information Home\obj\Release\Information Home PC.pdb
+G:\Information Home\Information Home PC\Information Home\bin\Release\Information Home PC.exe
+G:\Information Home\Information Home PC\Information Home\bin\Release\Information Home PC.pdb
+G:\Information Home\Information Home PC\Information Home\bin\Release\zh\Information Home PC.resources.dll
+G:\Information Home\Information Home PC\Information Home\bin\Release\NAudio.dll
+G:\Information Home\Information Home PC\Information Home\bin\Release\Newtonsoft.Json.dll
+G:\Information Home\Information Home PC\Information Home\obj\Release\Information Home.csprojResolveAssemblyReference.cache
+G:\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.resources
+G:\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.Properties.Resources.resources
+G:\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.ShareForm.resources
+G:\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.VistaButton.resources
+G:\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.VoiceCall.resources
+G:\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.zh.resources
+G:\Information Home\Information Home PC\Information Home\obj\Release\Information Home.csproj.GenerateResource.Cache
+G:\Information Home\Information Home PC\Information Home\obj\Release\zh\Information Home PC.resources.dll
+D:\profession\Information Home\Information Home PC\Information Home\bin\Release\Information Home PC.exe.config
+D:\profession\Information Home\Information Home PC\Information Home\obj\Release\Information Home PC.exe
+D:\profession\Information Home\Information Home PC\Information Home\obj\Release\Information Home PC.pdb
+D:\profession\Information Home\Information Home PC\Information Home\bin\Release\Information Home PC.exe
+D:\profession\Information Home\Information Home PC\Information Home\bin\Release\Information Home PC.pdb
+D:\profession\Information Home\Information Home PC\Information Home\bin\Release\zh\Information Home PC.resources.dll
+D:\profession\Information Home\Information Home PC\Information Home\bin\Release\NAudio.dll
+D:\profession\Information Home\Information Home PC\Information Home\bin\Release\Newtonsoft.Json.dll
+D:\profession\Information Home\Information Home PC\Information Home\obj\Release\Information Home.csprojResolveAssemblyReference.cache
+D:\profession\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.resources
+D:\profession\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.Properties.Resources.resources
+D:\profession\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.ShareForm.resources
+D:\profession\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.VistaButton.resources
+D:\profession\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.VoiceCall.resources
+D:\profession\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.zh.resources
+D:\profession\Information Home\Information Home PC\Information Home\obj\Release\Information Home.csproj.GenerateResource.Cache
+D:\profession\Information Home\Information Home PC\Information Home\obj\Release\zh\Information Home PC.resources.dll
+D:\profession\Information\Information Home\Information Home PC\Information Home\bin\Release\Information Home PC.exe.config
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Release\Information Home PC.exe
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Release\Information Home PC.pdb
+D:\profession\Information\Information Home\Information Home PC\Information Home\bin\Release\Information Home PC.exe
+D:\profession\Information\Information Home\Information Home PC\Information Home\bin\Release\Information Home PC.pdb
+D:\profession\Information\Information Home\Information Home PC\Information Home\bin\Release\zh\Information Home PC.resources.dll
+D:\profession\Information\Information Home\Information Home PC\Information Home\bin\Release\NAudio.dll
+D:\profession\Information\Information Home\Information Home PC\Information Home\bin\Release\Newtonsoft.Json.dll
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.chooseIn.resources
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.resources
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.Properties.Resources.resources
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.ShareForm.resources
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.VistaButton.resources
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.VoiceCall.resources
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.HomePage.zh.resources
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Release\Information Home.csproj.GenerateResource.Cache
+D:\profession\Information\Information Home\Information Home PC\Information Home\obj\Release\zh\Information Home PC.resources.dll
+G:\Information Home\Information Home PC\Information Home\obj\Release\Information_Home_PC.chooseIn.resources

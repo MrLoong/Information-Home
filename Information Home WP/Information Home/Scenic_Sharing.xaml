@@ -1,0 +1,27 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Information_Home.Scenic_Sharing"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Landscape" Orientation="Landscape"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <Canvas x:Name="LayoutRoot" Background="#FF00C8FF">
+        <Rectangle x:Name="Re_video" Width="669" Height="480">
+            <Rectangle.Fill>
+                <VideoBrush x:Name="TheVideoBrush"></VideoBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Image Name="imgCapture" Width="274" Height="172" Canvas.Left="20" />
+        <Button x:Name="Share" Content="邀请分享" Canvas.Left="669" Canvas.Top="30" RenderTransformOrigin="0.225,0.188" Width="163" Click="Invite_Click"/>
+        <Button x:Name="closeShare" Content="关闭分享" Canvas.Left="674" Canvas.Top="107" Width="163" Click="Close_Click"/>
+    </Canvas>
+
+</phone:PhoneApplicationPage>

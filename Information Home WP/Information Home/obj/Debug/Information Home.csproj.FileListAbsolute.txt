@@ -1,0 +1,467 @@
+D:\profession\c#\Information Home\Information Home\Bin\Debug\Assets\ApplicationIcon.png
+D:\profession\c#\Information Home\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\profession\c#\Information Home\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\profession\c#\Information Home\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\profession\c#\Information Home\Information Home\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\profession\c#\Information Home\Information Home\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\profession\c#\Information Home\Information Home\Bin\Debug\Information Home.dll
+D:\profession\c#\Information Home\Information Home\Bin\Debug\Information Home.pdb
+D:\profession\c#\Information Home\Information Home\Bin\Debug\resources.pri
+D:\profession\c#\Information Home\Information Home\Bin\Debug\AppxManifest.xml
+D:\profession\c#\Information Home\Information Home\Bin\Debug\Information Home.build.appxrecipe
+D:\profession\c#\Information Home\Information Home\Bin\Debug\Properties\WMAppManifest.xml
+D:\profession\c#\Information Home\Information Home\Bin\Debug\AppManifest.xaml
+D:\profession\c#\Information Home\Information Home\Bin\Debug\Information_Home_Debug_AnyCPU.xap
+D:\profession\c#\Information Home\Information Home\obj\Debug\App.g.cs
+D:\profession\c#\Information Home\Information Home\obj\Debug\Information Home.g.resources
+D:\profession\c#\Information Home\Information Home\obj\Debug\Information_Home.Resources.AppResources.resources
+D:\profession\c#\Information Home\Information Home\obj\Debug\Information Home.csproj.GenerateResource.Cache
+D:\profession\c#\Information Home\Information Home\obj\Debug\Information Home.dll
+D:\profession\c#\Information Home\Information Home\obj\Debug\Information Home.pdb
+D:\profession\c#\Information Home\Information Home\obj\Debug\priconfig.xml
+D:\profession\c#\Information Home\Information Home\obj\Debug\priconfig.xml.intermediate
+D:\profession\c#\Information Home\Information Home\obj\Debug\layout.resfiles
+D:\profession\c#\Information Home\Information Home\obj\Debug\layout.resfiles.intermediate
+D:\profession\c#\Information Home\Information Home\obj\Debug\resources.resfiles
+D:\profession\c#\Information Home\Information Home\obj\Debug\resources.resfiles.intermediate
+D:\profession\c#\Information Home\Information Home\obj\Debug\pri.resfiles
+D:\profession\c#\Information Home\Information Home\obj\Debug\pri.resfiles.intermediate
+D:\profession\c#\Information Home\Information Home\obj\Debug\qualifiers.txt
+D:\profession\c#\Information Home\Information Home\obj\Debug\qualifiers.txt.intermediate
+D:\profession\c#\Information Home\Information Home\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\profession\c#\Information Home\Information Home\obj\Debug\ProjectArchitectures.txt
+D:\profession\c#\Information Home\Information Home\obj\Debug\MDILProjectFiles.xml
+D:\profession\c#\Information Home\Information Home\obj\Debug\XapCacheFile.xml
+D:\profession\c#\Information Home\Information Home\Bin\Debug\Coding4Fun.Phone.Controls.dll
+D:\profession\c#\Information Home\Information Home\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+D:\profession\c#\Information Home\Information Home\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\profession\c#\Information Home\Information Home\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\profession\c#\Information Home\Information Home\obj\Debug\Connect.g.cs
+D:\profession\c#\Information Home\Information Home\obj\Debug\File_Preview.g.cs
+D:\profession\c#\Information Home\Information Home\obj\Debug\Information.g.cs
+D:\profession\c#\Information Home\Information Home\obj\Debug\Scenic_Sharing.g.cs
+D:\profession\c#\Information Home\Information Home\obj\Debug\Video_Remote_Control.g.cs
+D:\profession\c#\Information Home\Information Home\obj\Debug\Video_Control.g.cs
+D:\profession\c#\Information Home\Information Home\obj\Debug\Page1.g.cs
+D:\profession\c#\Information Home\Information Home\obj\Debug\Information Home.csprojResolveAssemblyReference.cache
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\Information Home.dll
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\Information Home.pdb
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\resources.pri
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\AppxManifest.xml
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\Information Home.build.appxrecipe
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\AppManifest.xaml
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\Information_Home_Debug_AnyCPU.xap
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\Information Home.csprojResolveAssemblyReference.cache
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\App.g.cs
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\Connect.g.cs
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\File_Preview.g.cs
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\Information.g.cs
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\Scenic_Sharing.g.cs
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\Video_Remote_Control.g.cs
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\Information Home.g.resources
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\Information_Home.Resources.AppResources.resources
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\Information Home.csproj.GenerateResource.Cache
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\Information Home.dll
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\Information Home.pdb
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\priconfig.xml
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\priconfig.xml.intermediate
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\layout.resfiles
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\layout.resfiles.intermediate
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\resources.resfiles
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\resources.resfiles.intermediate
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\pri.resfiles
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\pri.resfiles.intermediate
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\qualifiers.txt
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\qualifiers.txt.intermediate
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\ProjectArchitectures.txt
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\MDILProjectFiles.xml
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\XapCacheFile.xml
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\Assets\ApplicationIcon.png
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\Information Home.dll
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\Information Home.pdb
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\resources.pri
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\AppxManifest.xml
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\Information Home.build.appxrecipe
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\Properties\WMAppManifest.xml
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\AppManifest.xaml
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\Information_Home_Debug_AnyCPU.xap
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Phone.Controls.dll
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\App.g.cs
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Connect.g.cs
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\File_Preview.g.cs
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Information.g.cs
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Scenic_Sharing.g.cs
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Video_Remote_Control.g.cs
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Information Home.g.resources
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Information_Home.Resources.AppResources.resources
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Information Home.csproj.GenerateResource.Cache
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Information Home.dll
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Information Home.pdb
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\priconfig.xml
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\priconfig.xml.intermediate
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\layout.resfiles
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\layout.resfiles.intermediate
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\resources.resfiles
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\resources.resfiles.intermediate
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\pri.resfiles
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\pri.resfiles.intermediate
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\qualifiers.txt
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\qualifiers.txt.intermediate
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\ProjectArchitectures.txt
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\MDILProjectFiles.xml
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\XapCacheFile.xml
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Welcome.g.cs
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Push_The_Screen.g.cs
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Document.g.cs
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Voice_Calls.g.cs
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\Document.g.cs
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\Push_The_Screen.g.cs
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\Voice_Calls.g.cs
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\Welcome.g.cs
+C:\Users\lurenyi\Desktop\Information Home WP\Information Home\obj\Debug\DataSharing.g.cs
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\Assets\ApplicationIcon.png
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\Information Home.dll
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\Information Home.pdb
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\resources.pri
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\AppxManifest.xml
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\Information Home.build.appxrecipe
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\Properties\WMAppManifest.xml
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\AppManifest.xaml
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\Information_Home_Debug_AnyCPU.xap
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Phone.Controls.dll
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\Information Home.csprojResolveAssemblyReference.cache
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\App.g.cs
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\Connect.g.cs
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\DataSharing.g.cs
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\Document.g.cs
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\File_Preview.g.cs
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\Information.g.cs
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\Push_The_Screen.g.cs
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\Scenic_Sharing.g.cs
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\Video_Remote_Control.g.cs
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\Voice_Calls.g.cs
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\Welcome.g.cs
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\Information Home.g.resources
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\Information_Home.Resources.AppResources.resources
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\Information Home.csproj.GenerateResource.Cache
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\Information Home.dll
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\Information Home.pdb
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\priconfig.xml
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\priconfig.xml.intermediate
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\layout.resfiles
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\layout.resfiles.intermediate
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\resources.resfiles
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\resources.resfiles.intermediate
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\pri.resfiles
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\pri.resfiles.intermediate
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\qualifiers.txt
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\qualifiers.txt.intermediate
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\ProjectArchitectures.txt
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\MDILProjectFiles.xml
+D:\profession\c#\Information Home WP V10\Information Home WP\Information Home\obj\Debug\XapCacheFile.xml
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\DataSharing.g.cs
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Control_PPT.g.cs
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Quick_Open.g.cs
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\System_Manage.g.cs
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Key_Box.g.cs
+D:\profession\c#\Information Home WP\Information Home WP\Information Home\obj\Debug\Information Home.csprojResolveAssemblyReference.cache
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.dll
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.pdb
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\resources.pri
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\AppxManifest.xml
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.build.appxrecipe
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\AppManifest.xaml
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\Information_Home_Debug_AnyCPU.xap
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.csprojResolveAssemblyReference.cache
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\App.g.cs
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Connect.g.cs
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Control_PPT.g.cs
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\DataSharing.g.cs
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Document.g.cs
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Key_Box.g.cs
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\File_Preview.g.cs
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Information.g.cs
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Push_The_Screen.g.cs
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Quick_Open.g.cs
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Scenic_Sharing.g.cs
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\System_Manage.g.cs
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Video_Remote_Control.g.cs
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Voice_Calls.g.cs
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Welcome.g.cs
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.g.resources
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Information_Home.Resources.AppResources.resources
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.csproj.GenerateResource.Cache
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.dll
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.pdb
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\priconfig.xml
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\priconfig.xml.intermediate
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\layout.resfiles
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\layout.resfiles.intermediate
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\resources.resfiles
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\resources.resfiles.intermediate
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\pri.resfiles
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\pri.resfiles.intermediate
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\qualifiers.txt
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\qualifiers.txt.intermediate
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\ProjectArchitectures.txt
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\MDILProjectFiles.xml
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\XapCacheFile.xml
+C:\Users\希伟\Desktop\Information Home\Information Home\Information Home WP\Information Home\obj\Debug\Easy_Use.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\ApplicationIcon.png
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.dll
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.pdb
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\resources.pri
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\AppxManifest.xml
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.build.appxrecipe
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\Properties\WMAppManifest.xml
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\AppManifest.xaml
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\Information_Home_Debug_AnyCPU.xap
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Phone.Controls.dll
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.csprojResolveAssemblyReference.cache
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\App.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Connect.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Control_PPT.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\DataSharing.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Document.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Easy_Use.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Key_Box.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\File_Preview.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Information.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Push_The_Screen.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Quick_Open.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Scenic_Sharing.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\System_Manage.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Video_Remote_Control.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Voice_Calls.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Welcome.g.cs
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.g.resources
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Information_Home.Resources.AppResources.resources
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.csproj.GenerateResource.Cache
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.dll
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.pdb
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\priconfig.xml
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\priconfig.xml.intermediate
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\layout.resfiles
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\layout.resfiles.intermediate
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\resources.resfiles
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\resources.resfiles.intermediate
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\pri.resfiles
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\pri.resfiles.intermediate
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\qualifiers.txt
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\qualifiers.txt.intermediate
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\ProjectArchitectures.txt
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\MDILProjectFiles.xml
+D:\profession\c#\Information Home v13 （视频拍摄）\Information Home\Information Home WP\Information Home\obj\Debug\XapCacheFile.xml
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\ApplicationIcon.png
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.dll
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.pdb
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\resources.pri
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\AppxManifest.xml
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.build.appxrecipe
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\Properties\WMAppManifest.xml
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\AppManifest.xaml
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\Information_Home_Debug_AnyCPU.xap
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Phone.Controls.dll
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+G:\Information Home\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.dll
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.csprojResolveAssemblyReference.cache
+G:\Information Home\Information Home WP\Information Home\obj\Debug\App.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Connect.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Control_PPT.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\DataSharing.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Document.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Easy_Use.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Key_Box.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\File_Preview.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Information.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Push_The_Screen.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Quick_Open.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Scenic_Sharing.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\System_Manage.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Video_Remote_Control.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Voice_Calls.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Welcome.g.cs
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.g.resources
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Information_Home.Resources.AppResources.resources
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.csproj.GenerateResource.Cache
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.dll
+G:\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.pdb
+G:\Information Home\Information Home WP\Information Home\obj\Debug\priconfig.xml
+G:\Information Home\Information Home WP\Information Home\obj\Debug\priconfig.xml.intermediate
+G:\Information Home\Information Home WP\Information Home\obj\Debug\layout.resfiles
+G:\Information Home\Information Home WP\Information Home\obj\Debug\layout.resfiles.intermediate
+G:\Information Home\Information Home WP\Information Home\obj\Debug\resources.resfiles
+G:\Information Home\Information Home WP\Information Home\obj\Debug\resources.resfiles.intermediate
+G:\Information Home\Information Home WP\Information Home\obj\Debug\pri.resfiles
+G:\Information Home\Information Home WP\Information Home\obj\Debug\pri.resfiles.intermediate
+G:\Information Home\Information Home WP\Information Home\obj\Debug\qualifiers.txt
+G:\Information Home\Information Home WP\Information Home\obj\Debug\qualifiers.txt.intermediate
+G:\Information Home\Information Home WP\Information Home\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\Information Home\Information Home WP\Information Home\obj\Debug\ProjectArchitectures.txt
+G:\Information Home\Information Home WP\Information Home\obj\Debug\MDILProjectFiles.xml
+G:\Information Home\Information Home WP\Information Home\obj\Debug\XapCacheFile.xml
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\ApplicationIcon.png
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.dll
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.pdb
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\resources.pri
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\AppxManifest.xml
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.build.appxrecipe
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\Properties\WMAppManifest.xml
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\AppManifest.xaml
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\Information_Home_Debug_AnyCPU.xap
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Phone.Controls.dll
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\profession\Information Home\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\App.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Connect.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Control_PPT.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\DataSharing.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Document.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Easy_Use.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Key_Box.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\File_Preview.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Information.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Push_The_Screen.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Quick_Open.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Scenic_Sharing.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\System_Manage.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Video_Remote_Control.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Voice_Calls.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Welcome.g.cs
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.g.resources
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Information_Home.Resources.AppResources.resources
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.csproj.GenerateResource.Cache
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.dll
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.pdb
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\priconfig.xml
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\priconfig.xml.intermediate
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\layout.resfiles
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\layout.resfiles.intermediate
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\resources.resfiles
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\resources.resfiles.intermediate
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\pri.resfiles
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\pri.resfiles.intermediate
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\qualifiers.txt
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\qualifiers.txt.intermediate
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\ProjectArchitectures.txt
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\MDILProjectFiles.xml
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\XapCacheFile.xml
+D:\profession\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.csprojResolveAssemblyReference.cache
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\ApplicationIcon.png
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.dll
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.pdb
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\resources.pri
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\AppxManifest.xml
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.build.appxrecipe
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Properties\WMAppManifest.xml
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\AppManifest.xaml
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Information_Home_Debug_AnyCPU.xap
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Phone.Controls.dll
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.csprojResolveAssemblyReference.cache
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\App.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\ComeIn.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Connect.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Control_PPT.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\DataSharing.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Document.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Easy_Use.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Key_Box.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\File_Preview.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Information.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Push_The_Screen.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Scenic_Sharing.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\System_Manage.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Video_Remote_Control.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Voice_Calls.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Welcome.g.cs
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.g.resources
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Information_Home.Resources.AppResources.resources
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.csproj.GenerateResource.Cache
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.dll
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\Information Home.pdb
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\priconfig.xml
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\priconfig.xml.intermediate
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\layout.resfiles
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\layout.resfiles.intermediate
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\resources.resfiles
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\resources.resfiles.intermediate
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\pri.resfiles
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\pri.resfiles.intermediate
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\qualifiers.txt
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\qualifiers.txt.intermediate
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\ProjectArchitectures.txt
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\MDILProjectFiles.xml
+D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,69 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Information_Home.Video_Remote_Control"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot" Background="#FF00C8FF" >
+        <TextBlock x:Name="shipingyaokong" HorizontalAlignment="Center" Margin="10,10,0,0" TextWrapping="Wrap" Text="视频遥控" VerticalAlignment="Top" Height="80" Width="460" FontSize="60" FontWeight="Bold"/>
+        <Border MouseEnter="On_Off_Click" BorderThickness="1" HorizontalAlignment="Left" Height="150" Margin="10,153,0,0" VerticalAlignment="Top" Width="150"  >
+            <Border.Background>
+                <ImageBrush ImageSource="/images/OnOff.png" />
+            </Border.Background>
+        </Border>
+        <Border MouseEnter="Volume_Up_Click" BorderThickness="1" HorizontalAlignment="Left" Height="150" Margin="165,153,0,0" VerticalAlignment="Top" Width="150">
+            <Border.Background>
+                <ImageBrush ImageSource="/images/VolumeUp.png" />
+            </Border.Background>
+        </Border>
+        <Border MouseEnter="Mute_Click" BorderThickness="1" HorizontalAlignment="Left" Height="150" Margin="320,153,0,0" VerticalAlignment="Top" Width="150">
+            <Border.Background>
+                <ImageBrush ImageSource="/images/mute.png" />
+            </Border.Background>
+        </Border>
+        <Border MouseEnter="Transport_Rew_Click" BorderThickness="1" HorizontalAlignment="Left" Height="150" Margin="10,308,0,0" VerticalAlignment="Top" Width="150">
+            <Border.Background>
+                <ImageBrush ImageSource="/images/transport.rew.png" />
+            </Border.Background>
+        </Border>
+        <Border MouseEnter="Play_Pause_Click" BorderThickness="1" HorizontalAlignment="Left" Height="150" Margin="165,308,0,0" VerticalAlignment="Top" Width="150">
+            <Border.Background>
+                <ImageBrush ImageSource="/images/transport.playandpayse.png" />
+            </Border.Background>
+        </Border>
+        <Border MouseEnter="Transport_Ff_Click" BorderThickness="1" HorizontalAlignment="Left" Height="150" Margin="320,308,0,0" VerticalAlignment="Top" Width="150">
+            <Border.Background>
+                <ImageBrush ImageSource="/images/transport.ff.png" />
+            </Border.Background>
+        </Border>
+        <Border MouseEnter="The_Last_Section_Click" BorderThickness="1" HorizontalAlignment="Left" Height="150" Margin="10,463,0,0" VerticalAlignment="Top" Width="150">
+            <Border.Background>
+                <ImageBrush ImageSource="/images/TheLastSection.png" />
+            </Border.Background>
+        </Border>
+        <Border MouseEnter="Volume_Down_Click" BorderThickness="1" HorizontalAlignment="Left" Height="150" Margin="165,463,0,0" VerticalAlignment="Top" Width="150">
+            <Border.Background>
+                <ImageBrush ImageSource="/images/VolumeDown.png" />
+            </Border.Background>
+        </Border>
+        <Border MouseEnter="The_Next_Section_Click" BorderThickness="1" HorizontalAlignment="Left" Height="150" Margin="320,463,0,0" VerticalAlignment="Top" Width="150">
+            <Border.Background>
+                <ImageBrush ImageSource="/images/TheNextSection.png" />
+            </Border.Background>
+        </Border>
+        <Button x:Name="sign" Background="#FFFFC700"  Content="{Binding Key}" HorizontalAlignment="Left" Margin="10,670,0,0" VerticalAlignment="Top" Height="120" Width="305" FontSize="45" FontWeight="Bold" Click="Sign_Click"/>
+        <Button x:Name="tuichu" Background="#FFFFC700"  Content="退出" HorizontalAlignment="Left" Margin="315,670,0,0" VerticalAlignment="Top" Height="120" Width="155" FontSize="45" FontWeight="Bold" Click="OnBackKey"/>
+
+    </Grid>
+
+</phone:PhoneApplicationPage>

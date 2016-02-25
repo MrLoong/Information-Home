@@ -1,0 +1,35 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Information_Home.Easy_Use"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid Background="#FF00C8FF">
+        <Button x:Name="yuyingshibie" Click="Voice_Click" Content="语音识别" FontSize="30" HorizontalAlignment="Left" Margin="40,263,0,0" VerticalAlignment="Top" Width="200" Height="200">
+
+        </Button>
+        <Button x:Name="fangdajing" Click="Big_Click" Content="放大镜" FontSize="30" HorizontalAlignment="Left" Margin="245,263,0,0" VerticalAlignment="Top" Width="200" Height="200">
+
+        </Button>
+        <Button x:Name="jiangshuren" Click="Speak_Click" Content="讲述人" FontSize="30" HorizontalAlignment="Left" Margin="40,468,0,0" VerticalAlignment="Top" Width="200" Height="200">
+
+        </Button>
+        <Button x:Name="pingmujianpang" Click="Key_Box_Click" Content="屏幕键盘" FontSize="30" HorizontalAlignment="Left" Margin="245,468,0,0" VerticalAlignment="Top" Width="200" Height="200">
+
+        </Button>
+        <TextBlock HorizontalAlignment="Left" Margin="145,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="85" Width="230" Foreground="White" FontSize="55" Text="I-Home" FontFamily="Arial">
+        </TextBlock>
+    </Grid>
+
+</phone:PhoneApplicationPage>

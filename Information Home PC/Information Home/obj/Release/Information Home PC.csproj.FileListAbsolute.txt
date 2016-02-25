@@ -1,0 +1,14 @@
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information_Home_PC.HomePage.resources
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information_Home_PC.ShareForm.resources
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information_Home_PC.VistaButton.resources
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information_Home_PC.HomePage.zh.resources
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information Home PC.csproj.GenerateResource.Cache
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\bin\Release\Information Home PC.exe.config
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\bin\Release\Information Home PC.exe
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\bin\Release\Information Home PC.pdb
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\bin\Release\zh\Information Home PC.resources.dll
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information_Home_PC.Properties.Resources.resources
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\zh\Information Home PC.resources.dll
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information Home PC.exe
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information Home PC.pdb
+C:\Users\lurenyi\Desktop\Information Home PC\FindFile\obj\Release\Information Home PC.csprojResolveAssemblyReference.cache

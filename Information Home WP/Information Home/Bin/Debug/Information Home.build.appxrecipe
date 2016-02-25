@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>THINKPAD</Machine>
+    <WindowsUser>wxwrjgcs</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>af33d8b0-2462-454f-bd97-d2f91a33ed27</PackageIdentityName>
+    <IntermediateOutputPath>D:\profession\Information\Information Home\Information Home WP\Information Home\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\Information Home.dll">
+      <PackagePath>Information Home.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\dll\Coding4Fun.Phone.Controls.dll">
+      <PackagePath>Coding4Fun.Phone.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\dll\Coding4Fun.Toolkit.Controls.dll">
+      <PackagePath>Coding4Fun.Toolkit.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\dll\Microsoft.Phone.Controls.Toolkit.dll">
+      <PackagePath>Microsoft.Phone.Controls.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.1\Libraries\Microsoft.Phone.Controls.dll">
+      <PackagePath>Microsoft.Phone.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\dll\Coding4Fun.Phone.Controls.dll">
+      <PackagePath>dll\Coding4Fun.Phone.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\dll\Coding4Fun.Toolkit.Controls.dll">
+      <PackagePath>dll\Coding4Fun.Toolkit.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\dll\Microsoft.Phone.Controls.Toolkit.dll">
+      <PackagePath>dll\Microsoft.Phone.Controls.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\bg.png">
+      <PackagePath>images\bg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\DocumentBackground.png">
+      <PackagePath>images\DocumentBackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\Next.png">
+      <PackagePath>images\Next.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\No.png">
+      <PackagePath>images\No.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\Play.png">
+      <PackagePath>images\Play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\TheLast.png">
+      <PackagePath>images\TheLast.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\TheStop.png">
+      <PackagePath>images\TheStop.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\mute.png">
+      <PackagePath>images\mute.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\OnOff.png">
+      <PackagePath>images\OnOff.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\TheNextSection.png">
+      <PackagePath>images\TheNextSection.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\transport.playandpayse.png">
+      <PackagePath>images\transport.playandpayse.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\VolumeUp.png">
+      <PackagePath>images\VolumeUp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\back.png">
+      <PackagePath>images\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\File.png">
+      <PackagePath>images\File.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\Folder.png">
+      <PackagePath>images\Folder.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\Hard_Disk.png">
+      <PackagePath>images\Hard_Disk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\homeIco.png">
+      <PackagePath>images\homeIco.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\VolumeDown.png">
+      <PackagePath>images\VolumeDown.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\New_Folder.png">
+      <PackagePath>images\New_Folder.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\PanoramaBackground.png">
+      <PackagePath>images\PanoramaBackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\Search.png">
+      <PackagePath>images\Search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\TheLastSection.png">
+      <PackagePath>images\TheLastSection.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\transport.ff.png">
+      <PackagePath>images\transport.ff.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\images\transport.rew.png">
+      <PackagePath>images\transport.rew.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\profession\Information\Information Home\Information Home WP\Information Home\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

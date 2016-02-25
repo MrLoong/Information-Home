@@ -1,0 +1,143 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Information_Home.Information"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Panorama 控件-->
+        <phone:Panorama Title="Information Home" >
+            <phone:Panorama.Background>
+                <ImageBrush ImageSource="/images/bg.png"/>
+            </phone:Panorama.Background>
+
+            <phone:Panorama.TitleTemplate>
+                <DataTemplate>
+                    <TextBlock Text="Information Home" FontSize="120" Margin="10,40,0,0" FontFamily="a"/>
+                </DataTemplate>
+            </phone:Panorama.TitleTemplate>
+
+            <!--Panorama 项目一-->
+            <phone:PanoramaItem Orientation="Horizontal" >
+                <!--具有大型图像占位符的双倍宽度的全景-->
+                <Grid>
+                    <StackPanel Margin="0,-35,0,0" Orientation="Vertical" VerticalAlignment="Top">
+                        <StackPanel HorizontalAlignment="Left" Orientation="Horizontal">
+                            <Border  BorderThickness="0" Height="200" Width="200" Margin="10,0,-30,0" >
+                                <StackPanel Margin="0,34,0,0">
+                                    <TextBlock Text=" " FontSize="90" Height="90"  Margin="18,-12,18,-5"/>
+                                    <TextBlock x:Name="gongneng" Text="功能" FontSize="60" Height="110"  Margin="18,-12,18,-5"/>
+                                </StackPanel>
+                            </Border>
+                            <StackPanel HorizontalAlignment="Left" Orientation="Vertical">
+                                <Border BorderThickness="0" Height="95" Width="200" Margin="12,0,0,0" />
+                                <Button x:Name="zhongyingqiehuan" Click="Change_Language" Content="英文" FontSize="35" BorderThickness="2" Height="88" Width="200" Margin="12,0,0,0" />
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel HorizontalAlignment="Left" Orientation="Horizontal" Margin="0,-18,0,0">
+                            <Button BorderThickness="2" Height="200" Width="200" Margin="10,0,-30,0" Click="Document_Click">
+                                <StackPanel>
+                                    <TextBlock x:Name="wenjian" Text="文件" Height="75" FontSize="45" Margin="18,-12,18,-5"/>
+                                    <TextBlock x:Name="huoqu" Text="获取" Height="75" FontSize="45" Margin="18,-10"/>
+                                </StackPanel>
+                            </Button>
+                            <Button BorderThickness="2" Height="200" Width="200" Margin="12,0,0,0" Click="Video_Control_Click">
+                                <StackPanel>
+                                    <TextBlock x:Name="shiping" Text="视频" Height="75" FontSize="45" Margin="18,-12,18,-5"/>
+                                    <TextBlock x:Name="yaokong" Text="遥控" Height="75" FontSize="45" Margin="18,-10"/>
+                                </StackPanel>
+                            </Button>
+                        </StackPanel>
+                        <StackPanel HorizontalAlignment="Left" Orientation="Horizontal" Margin="0,-18,0,0">
+                            <Button BorderThickness="2" Height="200" Width="200" Margin="10,0,-30,0" Click="Push_The_Screen">
+                                <StackPanel>
+                                    <TextBlock x:Name="pingmu" Text="屏幕" Height="75" FontSize="45" Margin="18,-12,18,-5"/>
+                                    <TextBlock x:Name="tuisong" Text="推送" Height="75" FontSize="45" Margin="18,-10"/>
+                                </StackPanel>
+                            </Button>
+                            <Button BorderThickness="2" Height="200" Width="200" Margin="12,0,0,0" Click="Scenic_Sharing_Click">
+                                <StackPanel>
+                                    <TextBlock x:Name="fenjing" Text="风景" Height="75" FontSize="45" Margin="18,-12,18,-5"/>
+                                    <TextBlock x:Name="gongxiang" Text="共享" Height="75" FontSize="45" Margin="18,-10"/>
+                                </StackPanel>
+                            </Button>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+                <phone:PanoramaItem.HeaderTemplate>
+                    <DataTemplate>
+                        <TextBlock Text=" " FontSize="50" FontWeight="Bold"/>
+                    </DataTemplate>
+                </phone:PanoramaItem.HeaderTemplate>
+            </phone:PanoramaItem>
+            <!--全景项目三-->
+            <phone:PanoramaItem Orientation="Horizontal" >
+                <!--具有大型图像占位符的双倍宽度的全景-->
+                <Grid>
+                    <StackPanel Margin="0,-35,0,0" Orientation="Vertical" VerticalAlignment="Top">
+
+                        <StackPanel HorizontalAlignment="Left" Orientation="Horizontal">
+                            <Button  BorderThickness="2" Height="200" Width="200" Margin="10,0,-30,0" Click="Voice_Calls_Click">
+                                <StackPanel>
+                                    <TextBlock x:Name="yuying" Text="语音" Height="75" FontSize="45" Margin="18,-12,18,-5"/>
+                                    <TextBlock x:Name="tonghua" Text="通话" Height="75" FontSize="45" Margin="18,-10"/>
+                                </StackPanel>
+                            </Button>
+                            <Button BorderThickness="2" Height="200" Width="200" Margin="12,0,0,0" Click="Data_Sharing_Click">
+                                <StackPanel>
+                                    <TextBlock x:Name="shuju" Text="数据" Height="75" FontSize="45" Margin="18,-12,18,-5"/>
+                                    <TextBlock x:Name="fengxiang" Text="分享" Height="75" FontSize="45" Margin="18,-10"/>
+                                </StackPanel>
+                            </Button>
+                        </StackPanel>
+                        <StackPanel HorizontalAlignment="Left" Orientation="Horizontal" Margin="0,-18,0,0">
+                            <Button BorderThickness="2" Height="200" Width="200" Margin="10,0,-30,0" Click="Con_Ppt_Click">
+                                <StackPanel>
+                                    <TextBlock x:Name="kongzhi" Text="控制" Height="75" FontSize="45" Margin="18,-12,18,-5"/>
+                                    <TextBlock x:Name="PPT" Text="PPT" Height="75" FontSize="45" Margin="18,-10"/>
+                                </StackPanel>
+                            </Button>
+                            <Button BorderThickness="2" Height="200" Width="200" Margin="12,0,0,0" Click="Key_Box_Click">
+                                <StackPanel>
+                                    <TextBlock x:Name="moni" Text="模拟" Height="75" FontSize="45" Margin="18,-12,18,-5"/>
+                                    <TextBlock x:Name="jianpan" Text="键盘" Height="75" FontSize="45" Margin="18,-10"/>
+                                </StackPanel>
+                            </Button>
+                        </StackPanel>
+                        <StackPanel HorizontalAlignment="Left" Orientation="Horizontal" Margin="0,-18,0,0">
+                            <Button BorderThickness="2" Height="200" Width="200" Margin="10,0,-30,0" Click="Easy_Use_Click">
+                                <StackPanel>
+                                    <TextBlock x:Name="qingsong" Text="轻松" Height="75" FontSize="45" Margin="18,-12,18,-5"/>
+                                    <TextBlock x:Name="shiyong" Text="使用" Height="75" FontSize="45" Margin="18,-10"/>
+                                </StackPanel>
+                            </Button>
+                            <Button BorderThickness="2" Height="200" Width="200" Margin="12,0,0,0" Click="System_Click">
+                                <StackPanel>
+                                    <TextBlock x:Name="xitong" Text="系统" Height="75" FontSize="45" Margin="18,-12,18,-5"/>
+                                    <TextBlock x:Name="guanli" Text="管理" Height="75" FontSize="45" Margin="18,-10"/>
+                                </StackPanel>
+                            </Button>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+                <phone:PanoramaItem.HeaderTemplate>
+                    <DataTemplate>
+                        <TextBlock x:Name="gengduo" Text="" FontSize="50" FontWeight="Bold"/>
+                    </DataTemplate>
+                </phone:PanoramaItem.HeaderTemplate>
+            </phone:PanoramaItem>
+        </phone:Panorama>
+
+    </Grid>
+</phone:PhoneApplicationPage>
